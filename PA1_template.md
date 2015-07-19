@@ -1,8 +1,5 @@
 <!DOCTYPE html>
-<!-- saved from url=(0087)http://rstudio-pubs-static.s3.amazonaws.com/22414_6df6bc5ed5ee45fd9c5f85ee2392fdfd.html -->
-<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
-<meta http-equiv="x-ua-compatible" content="IE=9">
 
 <title>Reproducible Research: Peer assessment 1</title>
 
@@ -178,13 +175,6 @@ hljs.initHighlightingOnLoad();
 </head>
 
 <body>
-<h1>Reproducible Research: Peer assessment 1</h1>
-
-<h3><em>Amit Upadhyay</em></h3>
-
-<h3><em>20 July 2014</em></h3>
-
-<h6>Github repository with RMarkdown source code: <a href="https://github.com/c0d3-k1ra/RepData_PeerAssessment1">https://github.com/c0d3-k1ra/RepData_PeerAssessment1</a></h6>
 
 <h1></h1>
 
